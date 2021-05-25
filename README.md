@@ -1,4 +1,4 @@
-### Hello 👋
+### /həˈloʊ/ 👋
 [TryHackMe](https://tryhackme.com/p/kcm)   |   [HackerRank](https://www.hackerrank.com/kcoopermiller)   
 
 <!--
