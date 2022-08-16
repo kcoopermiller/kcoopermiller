@@ -1,6 +1,7 @@
-[TryHackMe](https://tryhackme.com/p/kcm)   
+[TryHackMe](https://tryhackme.com/p/kcm)
 
 <!--
+<a href="https://tryhackme.com/p/kcm"><img src="https://tryhackme-badges.s3.amazonaws.com/kcm.png" alt="TryHackMe"></a>
 **kcoopermiller/kcoopermiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
