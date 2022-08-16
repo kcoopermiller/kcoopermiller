@@ -1,7 +1,6 @@
-[TryHackMe](https://tryhackme.com/p/kcm)   |   [HackerRank](https://www.hackerrank.com/kcoopermiller)   
+[TryHackMe](https://tryhackme.com/p/kcm)   
 
 <!--
-[LeetCode](https://leetcode.com/kcm09/)
 **kcoopermiller/kcoopermiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
