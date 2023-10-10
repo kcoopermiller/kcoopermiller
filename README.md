@@ -1,4 +1,4 @@
-[TryHackMe](https://tryhackme.com/p/kcm)
+👋
 
 <!--
 <a href="https://tryhackme.com/p/kcm"><img src="https://tryhackme-badges.s3.amazonaws.com/kcm.png" alt="TryHackMe"></a>
